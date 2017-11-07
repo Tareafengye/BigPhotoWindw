@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#999999</color>
+    <color name="colorPrimaryDark">#999999</color>
+    <color name="colorAccent">#999999</color>
+    <color name="black">#252525</color>
+    <!--白色-->
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#e97a15</color>
+    <color name="pink">#ED635E</color>
+    <color name="man_color">#e1101d</color>
+    <color name="divider">#f5f5f5</color>
+    <color name="light_gray">#808080</color>
+    <color name="cb9">#999999</color>
+    <color name="e">#EEEEEE</color>
+    <color name="c">#CCCCCC</color>
+    <color name="home">#666666</color>
+    <color name="view">#CCCCCC</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="gray_8c">#8C8C8C</color>
+
+    <color name="pass_color">#08000000</color>
+    <color name="viewfinder_laser">#25a0f5</color> <!-- Android standard ICS color -->
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="result_view">#b0000000</color>
+    <color name="possible_result_points">#c0ffbd21</color> <!-- Android standard ICS color -->
+    <color name="textColor">#a9a9a9</color>
+    <color name="bg_floder_press">#bdbdbd</color>
+    <color name="biz_audio_progress_bg">#00b2ff</color>
+    <color name="biz_audio_progress_first">#838080</color>
+    <color name="biz_audio_progress_second">#0fcf0c</color>
+    <!--蓝色-->
+    <color name="blue">#67b6fb</color>
+    <!--黄色-->
+    <color name="yellow">#f7ba2b</color>
+    <!--紫色-->
+    <color name="violet">#e56ff9</color>
+</resources>
